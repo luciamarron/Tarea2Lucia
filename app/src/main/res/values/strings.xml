@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea2Lucia</string>
+    <string name="nombre">Bienvenido a la página 3</string>
+    <string name="nombre2">Bienvenido a la página 4</string>
+    <string name="pagina">Pulsa para salir de la aplicación</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="txtelegir">TxtElegir</string>
+    <string name="Like">¿te gusta esta página?</string>
+</resources>
